@@ -1,5 +1,5 @@
 import './ExploreContainer.css';
-import Logo from "../../public/logo.svg"
+import Logo from "../../public/logopurple.svg"
 
 interface ContainerProps {
   name: string;
@@ -7,7 +7,7 @@ interface ContainerProps {
 
 const ExploreContainer: React.FC<ContainerProps> = ({ }) => {
   return (
-    <div className="container p-5" style={{backgroundColor:"#551089"}}>
+    <div className="container p-5" >
       <img src={Logo}></img>
     </div>
   );
