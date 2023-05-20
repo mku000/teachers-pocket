@@ -1,0 +1,7 @@
+{
+  "name": "pockets-teachers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
