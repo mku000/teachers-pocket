@@ -1,7 +1,28 @@
-# Teacher's Pocket
+
+# Teachers Pocket
 
 Teacher's Pocket is an innovative educational application designed to empower teachers and enhance the teaching and learning experience. It provides a comprehensive set of features to help teachers efficiently manage their classrooms, engage students effectively, and streamline administrative tasks.
 
+
+## Authors
+
+- [@mku000](https://github.com/mku000)
+
+
+## Installation
+
+Clone the repository:
+
+```bash
+  git clone https://github.com/mku000/teachers-pocket.git
+```
+
+Install teachers-pocket with npm
+
+```bash
+  npm install 
+```
+    
 ## Features
 
 - Lesson Planning and Organization: Plan and organize lessons with ease using intuitive tools. Create lesson plans, set objectives, and align them with curriculum standards.
@@ -22,6 +43,12 @@ Teacher's Pocket is an innovative educational application designed to empower te
 
 - Parent Engagement: Involve parents in the learning process through real-time updates on student performance, attendance, and upcoming events. Enable parent-teacher communication for a collaborative approach to education.
 
-## Installation
 
-1. Clone the repository:
+## Contributing
+
+We welcome contributions from the community! If you have any ideas, bug fixes, or feature suggestions, please submit them as GitHub issues or make a pull request. We appreciate your support!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
